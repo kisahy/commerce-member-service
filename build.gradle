@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.kisahy'
 version = '0.0.1-SNAPSHOT'
-description = 'commerce-member-api'
+description = 'commerce-member-service'
 
 java {
     toolchain {
